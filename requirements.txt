@@ -1,0 +1,5 @@
+ipykernel
+opencv-python
+opencv-contrib-python
+scikit-image
+matplotlib
