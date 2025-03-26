@@ -4,7 +4,7 @@ Repository structure:
 - `src/` folder: <br>
   it contains the main algorithm used for the Motion Detection. It is a combination of Temporal Median algorithm and the OpenCV MOG2 (Mixture of Gaussians).
   - `IntrusionDetection.ipynb`: **main file**
-- `experiments` folder:<br>
+- `experiments/` folder:<br>
   it contains experiments to qualitatively understand which algorithm or configuration works the best for our scenario.
   - `IntrusionDetectionComparison.ipynb`<br>
     MOG2 vs. CNT vs. TemporalMedian
