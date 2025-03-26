@@ -14,6 +14,7 @@ Repository structure:
     Comparison among postprocessing techniques for enhancing the segmentation.
 - `video/` folder:<br>
   it contains the specific video of our challenge.
+- `IntrusionDetectionReport.pdf`: **report** 
 - `requirements.txt`<br>
   file containing all the external libraries used in the project.
   ```
